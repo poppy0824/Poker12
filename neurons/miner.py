@@ -49,8 +49,8 @@ class Miner(BaseMinerNeuron):
             repo_root=repo_root,
             implementation_files=implementation_files,
             defaults={
-                "model_name": "poker12-stack-lxe",
-                "model_version": "1",
+                "model_name": "poker12-puretree",
+                "model_version": "2",
                 "framework": "scikit-learn-stacking",
                 "license": "MIT",
                 "repo_url": "",
