@@ -10,3 +10,4 @@
 # lightgbm>=4.0
 lightgbm>=1.0
 catboost>=1.0
+torch>=2.0
